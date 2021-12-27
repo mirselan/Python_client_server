@@ -1,0 +1,9 @@
+items:
+- monitor
+- notebook
+- smartphone
+items_quantity: 3
+items_price:
+  monitor: 150€-500€
+  notebook: 200€-1500€
+  smartphone: 50€-700€
