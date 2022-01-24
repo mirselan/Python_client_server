@@ -1,0 +1,4 @@
+2022-01-20 18:08:35,991 CRITICAL server_log_config.py Критическая ошибка
+2022-01-20 18:08:35,991 ERROR server_log_config.py Обнаружена ошибка
+2022-01-20 18:08:35,991 DEBUG server_log_config.py Отладка программы
+2022-01-20 18:08:35,991 INFO server_log_config.py Информационное сообщение
